@@ -6,62 +6,79 @@
     <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Mar 2019 10:02:29 +0000</lastBuildDate>
     
 	<atom:link href="https://wesvi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Belles Lettres</title>
-      <link>https://wesvi.github.io/categories/belles-lettres/</link>
-      <pubDate>Thu, 07 Mar 2019 10:02:29 +0000</pubDate>
+      <title>Development</title>
+      <link>https://wesvi.github.io/categories/development/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/categories/belles-lettres/</guid>
+      <guid>https://wesvi.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Essay</title>
-      <link>https://wesvi.github.io/categories/essay/</link>
-      <pubDate>Sun, 27 Jan 2019 10:02:29 +0000</pubDate>
+      <title>Docs</title>
+      <link>https://wesvi.github.io/categories/docs/</link>
+      <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
       
-      <guid>https://wesvi.github.io/categories/essay/</guid>
+      <guid>https://wesvi.github.io/categories/docs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hardware</title>
-      <link>https://wesvi.github.io/categories/hardware/</link>
-      <pubDate>Fri, 01 Mar 2019 19:37:38 +0000</pubDate>
+      <title>English</title>
+      <link>https://wesvi.github.io/categories/english/</link>
+      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>https://wesvi.github.io/categories/hardware/</guid>
+      <guid>https://wesvi.github.io/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Paper</title>
-      <link>https://wesvi.github.io/categories/paper/</link>
-      <pubDate>Wed, 30 Jan 2019 23:37:38 +0000</pubDate>
+      <title>Golang</title>
+      <link>https://wesvi.github.io/categories/golang/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/categories/paper/</guid>
+      <guid>https://wesvi.github.io/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>https://wesvi.github.io/categories/programming/</link>
-      <pubDate>Sun, 24 Feb 2019 00:02:29 +0000</pubDate>
+      <title>Index</title>
+      <link>https://wesvi.github.io/categories/index/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>https://wesvi.github.io/categories/programming/</guid>
+      <guid>https://wesvi.github.io/categories/index/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Web</title>
-      <link>https://wesvi.github.io/categories/web/</link>
-      <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
+      <title>Shortcodes</title>
+      <link>https://wesvi.github.io/categories/shortcodes/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>https://wesvi.github.io/categories/web/</guid>
+      <guid>https://wesvi.github.io/categories/shortcodes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax Highlighting</title>
+      <link>https://wesvi.github.io/categories/syntax-highlighting/</link>
+      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      
+      <guid>https://wesvi.github.io/categories/syntax-highlighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://wesvi.github.io/categories/test/</link>
+      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
+      
+      <guid>https://wesvi.github.io/categories/test/</guid>
       <description></description>
     </item>
     
