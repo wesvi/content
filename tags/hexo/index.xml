@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hexo on Jane - A super concise theme for Hugo</title>
+    <link>https://wesvi.github.io/tags/hexo/</link>
+    <description>Recent content in Hexo on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Dec 2018 20:12:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://wesvi.github.io/tags/hexo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GitHub Hexo Next搭建博客</title>
+      <link>https://wesvi.github.io/post/github-hexo-next/</link>
+      <pubDate>Wed, 26 Dec 2018 20:12:41 +0000</pubDate>
+      
+      <guid>https://wesvi.github.io/post/github-hexo-next/</guid>
+      <description>GitHub账号注册 GitHub上新建一个仓库，命名为user.github.io Git安装使用 git --version 配置个人信息 git config --global user.name &amp;quot;yourname&amp;quot; git config --global user.email &amp;quot;youremail@example.com&amp;quot; 生成SS</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://wesvi.github.io/post/hello-world/</link>
+      <pubDate>Wed, 26 Dec 2018 19:37:38 +0000</pubDate>
+      
+      <guid>https://wesvi.github.io/post/hello-world/</guid>
+      <description>Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick Start Create a new post $ hexo new &amp;quot;My New Post&amp;quot; More info: Writing Run server $ hexo server More info: Server Generate static files $ hexo generate More info: Generating Deploy to</description>
+    </item>
+    
+  </channel>
+</rss>

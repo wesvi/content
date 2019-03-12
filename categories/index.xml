@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jane - A super concise theme for Hugo</title>
+    <link>https://wesvi.github.io/categories/</link>
+    <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Mar 2019 10:02:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://wesvi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Belles Lettres</title>
+      <link>https://wesvi.github.io/categories/belles-lettres/</link>
+      <pubDate>Thu, 07 Mar 2019 10:02:29 +0000</pubDate>
+      
+      <guid>https://wesvi.github.io/categories/belles-lettres/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essay</title>
+      <link>https://wesvi.github.io/categories/essay/</link>
+      <pubDate>Sun, 27 Jan 2019 10:02:29 +0000</pubDate>
+      
+      <guid>https://wesvi.github.io/categories/essay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>https://wesvi.github.io/categories/hardware/</link>
+      <pubDate>Fri, 01 Mar 2019 19:37:38 +0000</pubDate>
+      
+      <guid>https://wesvi.github.io/categories/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>https://wesvi.github.io/categories/paper/</link>
+      <pubDate>Wed, 30 Jan 2019 23:37:38 +0000</pubDate>
+      
+      <guid>https://wesvi.github.io/categories/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://wesvi.github.io/categories/programming/</link>
+      <pubDate>Sun, 24 Feb 2019 00:02:29 +0000</pubDate>
+      
+      <guid>https://wesvi.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://wesvi.github.io/categories/web/</link>
+      <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
+      
+      <guid>https://wesvi.github.io/categories/web/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

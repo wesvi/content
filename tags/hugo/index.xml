@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Jane - A super concise theme for Hugo</title>
+    <link>https://wesvi.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Jane - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Mar 2019 19:37:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://wesvi.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Hugo</title>
+      <link>https://wesvi.github.io/post/hello-hugo/</link>
+      <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
+      
+      <guid>https://wesvi.github.io/post/hello-hugo/</guid>
+      <description>https://www.xianmin.org/ https://github.com/xianmin/hugo-theme-jane https://github.com/servicemesher/website</description>
+    </item>
+    
+  </channel>
+</rss>
