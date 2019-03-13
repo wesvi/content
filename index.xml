@@ -204,6 +204,7 @@ $$
 
 &lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;You can create footnotes like this[^footnote].
 
+[^footnote]: Here is the *text* of the **footnote**.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;will produce:&lt;/p&gt;
@@ -251,7 +252,7 @@ $$
 
 Then, anywhere in the document, you define your link label like this, on a line by itself:
 
-
+[id]: http://example.com/  &amp;quot;Optional Title Here&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;In typora, they will be rendered like:&lt;/p&gt;
@@ -263,7 +264,7 @@ Then, anywhere in the document, you define your link label like this, on a line 
 &lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;[Google][]
 And then define the link:
 
-
+[Google]: http://google.com/
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;In typora click link will expand it for editing, command+click will open the hyperlink in web browser.&lt;/p&gt;
@@ -1061,6 +1062,7 @@ A warning disclaimer
 
 &lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;You can create footnotes like this[^footnote].
 
+[^footnote]: Here is the *text* of the **footnote**.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;will produce:&lt;/p&gt;
@@ -1073,6 +1075,7 @@ A warning disclaimer
 
 &lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;You can create footnotes like this[^footnote2].
 
+[^footnote2]: Here is the *text* of the **footnote**.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;will produce:&lt;/p&gt;
@@ -1085,6 +1088,7 @@ A warning disclaimer
 
 &lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;You can create footnotes like this[^footnote].
 
+[^footnote]: Here is the *text* of the **footnote**.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;will produce:&lt;/p&gt;
@@ -1097,6 +1101,7 @@ A warning disclaimer
 
 &lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;You can create footnotes like this[^footnote].
 
+[^footnote]: Here is the *text* of the **footnote**.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;will produce:&lt;/p&gt;
@@ -1109,6 +1114,7 @@ A warning disclaimer
 
 &lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;You can create footnotes like this[^footnote].
 
+[^footnote]: Here is the *text* of the **footnote**.
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;will produce dddddddddddddddddddddddddddddddddddddddddddddd:&lt;/p&gt;
@@ -1125,7 +1131,7 @@ A warning disclaimer
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:example&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li id=&#34;fn:footnote1&#34;&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote-1&lt;/strong&gt;.
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:footnote1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li id=&#34;fn:footnote&#34;&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote&lt;/strong&gt;.
+&lt;li id=&#34;fn:footnote&#34;&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote-2&lt;/strong&gt;. Here is the text of the footnote-2. Here is the text of the footnote-2. Here is the text of the footnote-2. Here is the text of the footnote-2.  &lt;a href=&#34;https://gohugo.io/&#34;&gt;The world’s fastest framework for building websites | Hugo&lt;/a&gt;
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:footnote&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li id=&#34;fn:footnote3&#34;&gt;Here is the &lt;em&gt;text&lt;/em&gt; of the &lt;strong&gt;footnote-3&lt;/strong&gt;.
  &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:footnote3&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
@@ -2043,7 +2049,7 @@ i&#39;m speechless
     &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;http://localhost:1313/post/first-post/&amp;quot;&amp;gt;first&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
 &amp;lt;script&amp;gt;document.write(&#39;&amp;lt;script src=&amp;quot;http://&#39;
         + (location.host || &#39;localhost&#39;).split(&#39;:&#39;)[0]
-        + &#39;:1313/livereload.js?mindelay=10&amp;quot;&amp;gt;&amp;lt;/&#39;
+		+ &#39;:1313/livereload.js?mindelay=10&amp;quot;&amp;gt;&amp;lt;/&#39;
         + &#39;script&amp;gt;&#39;)&amp;lt;/script&amp;gt;&amp;lt;/body&amp;gt;
 &amp;lt;/html&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
@@ -2088,8 +2094,8 @@ i&#39;m speechless
 
 &lt;pre&gt;&lt;code&gt;$ vi config.toml
 [permalinks]
-    page = &amp;quot;/:title/&amp;quot;
-    about = &amp;quot;/:filename/&amp;quot;
+	page = &amp;quot;/:title/&amp;quot;
+	about = &amp;quot;/:filename/&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Generate the web site and verify that this didn&amp;rsquo;t work. Hugo lets &amp;ldquo;slug&amp;rdquo; or &amp;ldquo;URL&amp;rdquo; override the permalinks setting in the configuration file. Go ahead and comment out the slug in content/about.md, then generate the web site to get it to be created in the right place.&lt;/p&gt;
@@ -2108,7 +2114,7 @@ i&#39;m speechless
 &amp;lt;!DOCTYPE html&amp;gt;
 &amp;lt;html&amp;gt;
 &amp;lt;head&amp;gt;
-    &amp;lt;title&amp;gt;{{ .Title }}&amp;lt;/title&amp;gt;
+	&amp;lt;title&amp;gt;{{ .Title }}&amp;lt;/title&amp;gt;
 &amp;lt;/head&amp;gt;
 &amp;lt;body&amp;gt;
 :wq
@@ -3158,7 +3164,7 @@ i&#39;m speechless
     &amp;lt;h1&amp;gt;&amp;lt;a href=&amp;quot;http://localhost:1313/post/first-post/&amp;quot;&amp;gt;first&amp;lt;/a&amp;gt;&amp;lt;/h1&amp;gt;
 &amp;lt;script&amp;gt;document.write(&#39;&amp;lt;script src=&amp;quot;http://&#39;
         + (location.host || &#39;localhost&#39;).split(&#39;:&#39;)[0]
-        + &#39;:1313/livereload.js?mindelay=10&amp;quot;&amp;gt;&amp;lt;/&#39;
+		+ &#39;:1313/livereload.js?mindelay=10&amp;quot;&amp;gt;&amp;lt;/&#39;
         + &#39;script&amp;gt;&#39;)&amp;lt;/script&amp;gt;&amp;lt;/body&amp;gt;
 &amp;lt;/html&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
@@ -3203,8 +3209,8 @@ i&#39;m speechless
 
 &lt;pre&gt;&lt;code&gt;$ vi config.toml
 [permalinks]
-    page = &amp;quot;/:title/&amp;quot;
-    about = &amp;quot;/:filename/&amp;quot;
+	page = &amp;quot;/:title/&amp;quot;
+	about = &amp;quot;/:filename/&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;Generate the web site and verify that this didn&amp;rsquo;t work. Hugo lets &amp;ldquo;slug&amp;rdquo; or &amp;ldquo;URL&amp;rdquo; override the permalinks setting in the configuration file. Go ahead and comment out the slug in content/about.md, then generate the web site to get it to be created in the right place.&lt;/p&gt;
@@ -3223,7 +3229,7 @@ i&#39;m speechless
 &amp;lt;!DOCTYPE html&amp;gt;
 &amp;lt;html&amp;gt;
 &amp;lt;head&amp;gt;
-    &amp;lt;title&amp;gt;{{ .Title }}&amp;lt;/title&amp;gt;
+	&amp;lt;title&amp;gt;{{ .Title }}&amp;lt;/title&amp;gt;
 &amp;lt;/head&amp;gt;
 &amp;lt;body&amp;gt;
 :wq
