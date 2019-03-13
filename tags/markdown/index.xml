@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Markdown on Jane - A super concise theme for Hugo</title>
-    <link>https://wesvi.github.io/tags/markdown/</link>
-    <description>Recent content in Markdown on Jane - A super concise theme for Hugo</description>
+    <title>Markdown on 万事威博客</title>
+    <link>http://localhost:1313/tags/markdown/</link>
+    <description>Recent content in Markdown on 万事威博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 01 Mar 2018 16:01:23 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 17 Feb 2019 19:37:38 +0000</lastBuildDate>
     
-	<atom:link href="https://wesvi.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Jane-Theme Footnote Preview</title>
-      <link>https://wesvi.github.io/post/doc-footnote-preview/</link>
-      <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
+      <title>Markdown</title>
+      <link>http://localhost:1313/post/markdown/</link>
+      <pubDate>Sun, 17 Feb 2019 19:37:38 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/post/doc-footnote-preview/</guid>
-      <description>&lt;p&gt;Hugo-theme-jane optimized for footnote. When you mouse hover the footnote&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:example&#34;&gt;&lt;a href=&#34;#fn:example&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; , footnote content will be displayed.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/markdown/</guid>
+      <description>Markdown Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。其基本语法如下： 标题 标题能显示出文章的</description>
     </item>
     
   </channel>

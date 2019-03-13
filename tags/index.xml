@@ -1,184 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jane - A super concise theme for Hugo</title>
-    <link>https://wesvi.github.io/tags/</link>
-    <description>Recent content in Tags on Jane - A super concise theme for Hugo</description>
+    <title>Tags on 万事威博客</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on 万事威博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 07 Mar 2019 10:02:29 +0000</lastBuildDate>
     
-	<atom:link href="https://wesvi.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://wesvi.github.io/tags/development/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Belles Lettres</title>
+      <link>http://localhost:1313/tags/belles-lettres/</link>
+      <pubDate>Thu, 07 Mar 2019 10:02:29 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/tags/development/</guid>
+      <guid>http://localhost:1313/tags/belles-lettres/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>English</title>
-      <link>https://wesvi.github.io/tags/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <title>Emacs</title>
+      <link>http://localhost:1313/tags/emacs/</link>
+      <pubDate>Sun, 24 Feb 2019 00:02:29 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/tags/english/</guid>
+      <guid>http://localhost:1313/tags/emacs/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Footnote</title>
-      <link>https://wesvi.github.io/tags/footnote/</link>
-      <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
+      <title>Essay</title>
+      <link>http://localhost:1313/tags/essay/</link>
+      <pubDate>Sun, 27 Jan 2019 10:02:29 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/tags/footnote/</guid>
+      <guid>http://localhost:1313/tags/essay/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://wesvi.github.io/tags/go/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Github</title>
+      <link>http://localhost:1313/tags/github/</link>
+      <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/tags/go/</guid>
+      <guid>http://localhost:1313/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>https://wesvi.github.io/tags/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Hexo</title>
+      <link>http://localhost:1313/tags/hexo/</link>
+      <pubDate>Wed, 26 Dec 2018 20:12:41 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/tags/golang/</guid>
+      <guid>http://localhost:1313/tags/hexo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://wesvi.github.io/tags/hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Image</title>
-      <link>https://wesvi.github.io/tags/image/</link>
-      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://wesvi.github.io/tags/image/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jekyll</title>
-      <link>https://wesvi.github.io/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wesvi.github.io/tags/jekyll/</guid>
+      <guid>http://localhost:1313/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>https://wesvi.github.io/tags/markdown/</link>
-      <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
+      <link>http://localhost:1313/tags/markdown/</link>
+      <pubDate>Sun, 17 Feb 2019 19:37:38 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/tags/markdown/</guid>
+      <guid>http://localhost:1313/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Preview</title>
-      <link>https://wesvi.github.io/tags/preview/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      <title>Next</title>
+      <link>http://localhost:1313/tags/next/</link>
+      <pubDate>Wed, 26 Dec 2018 20:12:41 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/tags/preview/</guid>
+      <guid>http://localhost:1313/tags/next/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Shortcodes</title>
-      <link>https://wesvi.github.io/tags/shortcodes/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      <title>Qdii</title>
+      <link>http://localhost:1313/tags/qdii/</link>
+      <pubDate>Wed, 30 Jan 2019 23:37:38 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/tags/shortcodes/</guid>
+      <guid>http://localhost:1313/tags/qdii/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Syntax Highlighting</title>
-      <link>https://wesvi.github.io/tags/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      <title>Raspberry</title>
+      <link>http://localhost:1313/tags/raspberry/</link>
+      <pubDate>Fri, 01 Mar 2019 19:37:38 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/tags/syntax-highlighting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag 11</title>
-      <link>https://wesvi.github.io/tags/tag-11/</link>
-      <pubDate>Thu, 01 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://wesvi.github.io/tags/tag-11/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag 2</title>
-      <link>https://wesvi.github.io/tags/tag-2/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://wesvi.github.io/tags/tag-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag 5</title>
-      <link>https://wesvi.github.io/tags/tag-5/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>https://wesvi.github.io/tags/tag-5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag 6</title>
-      <link>https://wesvi.github.io/tags/tag-6/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://wesvi.github.io/tags/tag-6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tag 7</title>
-      <link>https://wesvi.github.io/tags/tag-7/</link>
-      <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://wesvi.github.io/tags/tag-7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Templates</title>
-      <link>https://wesvi.github.io/tags/templates/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wesvi.github.io/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>https://wesvi.github.io/tags/themes/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wesvi.github.io/tags/themes/</guid>
+      <guid>http://localhost:1313/tags/raspberry/</guid>
       <description></description>
     </item>
     

@@ -1,84 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Jane - A super concise theme for Hugo</title>
-    <link>https://wesvi.github.io/categories/</link>
-    <description>Recent content in Categories on Jane - A super concise theme for Hugo</description>
+    <title>Categories on 万事威博客</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on 万事威博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 07 Mar 2019 10:02:29 +0000</lastBuildDate>
     
-	<atom:link href="https://wesvi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://wesvi.github.io/categories/development/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Belles Lettres</title>
+      <link>http://localhost:1313/categories/belles-lettres/</link>
+      <pubDate>Thu, 07 Mar 2019 10:02:29 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/categories/development/</guid>
+      <guid>http://localhost:1313/categories/belles-lettres/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Docs</title>
-      <link>https://wesvi.github.io/categories/docs/</link>
-      <pubDate>Mon, 01 Jan 2018 16:01:23 +0800</pubDate>
+      <title>Essay</title>
+      <link>http://localhost:1313/categories/essay/</link>
+      <pubDate>Sun, 27 Jan 2019 10:02:29 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/categories/docs/</guid>
+      <guid>http://localhost:1313/categories/essay/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>English</title>
-      <link>https://wesvi.github.io/categories/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <title>Hardware</title>
+      <link>http://localhost:1313/categories/hardware/</link>
+      <pubDate>Fri, 01 Mar 2019 19:37:38 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/categories/english/</guid>
+      <guid>http://localhost:1313/categories/hardware/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>https://wesvi.github.io/categories/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Paper</title>
+      <link>http://localhost:1313/categories/paper/</link>
+      <pubDate>Wed, 30 Jan 2019 23:37:38 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/categories/golang/</guid>
+      <guid>http://localhost:1313/categories/paper/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Index</title>
-      <link>https://wesvi.github.io/categories/index/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      <title>Programming</title>
+      <link>http://localhost:1313/categories/programming/</link>
+      <pubDate>Sun, 24 Feb 2019 00:02:29 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/categories/index/</guid>
+      <guid>http://localhost:1313/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Shortcodes</title>
-      <link>https://wesvi.github.io/categories/shortcodes/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      <title>Web</title>
+      <link>http://localhost:1313/categories/web/</link>
+      <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
       
-      <guid>https://wesvi.github.io/categories/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>https://wesvi.github.io/categories/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
-      
-      <guid>https://wesvi.github.io/categories/syntax-highlighting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://wesvi.github.io/categories/test/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://wesvi.github.io/categories/test/</guid>
+      <guid>http://localhost:1313/categories/web/</guid>
       <description></description>
     </item>
     
