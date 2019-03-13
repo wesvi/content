@@ -2,93 +2,93 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 万事威博客</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://wesvi.github.io/post/</link>
     <description>Recent content in Posts on 万事威博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 08 Mar 2019 19:37:38 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wesvi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello Hugo</title>
-      <link>http://localhost:1313/post/hello-hugo/</link>
+      <link>https://wesvi.github.io/post/hello-hugo/</link>
       <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/hello-hugo/</guid>
+      <guid>https://wesvi.github.io/post/hello-hugo/</guid>
       <description>Hello hugo https://www.xianmin.org/ https://github.com/xianmin/hugo-theme-jane https://github.com/servicemesher/website</description>
     </item>
     
     <item>
       <title>THE EDGE OF SHOAL</title>
-      <link>http://localhost:1313/post/the-edge-of-shuoal/</link>
+      <link>https://wesvi.github.io/post/the-edge-of-shuoal/</link>
       <pubDate>Thu, 07 Mar 2019 10:02:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/the-edge-of-shuoal/</guid>
+      <guid>https://wesvi.github.io/post/the-edge-of-shuoal/</guid>
       <description>by Cynan Jones He swings the fish from the water, a wild stripe flicking and flashing into the boat, and grabs the line, twisting the hook out, holding the fish down in the footrests. It gasps, thrashes. Drums. Something rapid and primal, ceremonial, in the shallow of the open boat. Flecks of blood and scales loosen, as if turning to rainbows in his hands, as he picks up the fish</description>
     </item>
     
     <item>
       <title>树莓派使用</title>
-      <link>http://localhost:1313/post/raspberry-pi/</link>
+      <link>https://wesvi.github.io/post/raspberry-pi/</link>
       <pubDate>Fri, 01 Mar 2019 19:37:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/raspberry-pi/</guid>
+      <guid>https://wesvi.github.io/post/raspberry-pi/</guid>
       <description>树莓派使用 开启root权限 sudo passwd root sudo nano /etc/ssh/sshd_config Ctrl + W 快捷键 搜索 PermitRootLogin without-password 修改 PermitRootLogin without-password 为 PermitRootLogin yes Ctrl + O 快捷键 保存 Ctrl + X 快捷键 退出 Nano 编辑器 启动并配置WIFI 查看树莓派</description>
     </item>
     
     <item>
       <title>Emacs安装配置</title>
-      <link>http://localhost:1313/post/emacs-install/</link>
+      <link>https://wesvi.github.io/post/emacs-install/</link>
       <pubDate>Sun, 24 Feb 2019 00:02:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/emacs-install/</guid>
+      <guid>https://wesvi.github.io/post/emacs-install/</guid>
       <description>Emacs安装配置 安装 win7环境 设置PATH，;D:\app\emacs\bin 创建快捷方式，位置处填入D:\app\emacs\bin\</description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/post/markdown/</link>
+      <link>https://wesvi.github.io/post/markdown/</link>
       <pubDate>Sun, 17 Feb 2019 19:37:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/markdown/</guid>
+      <guid>https://wesvi.github.io/post/markdown/</guid>
       <description>Markdown Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。其基本语法如下： 标题 标题能显示出文章的</description>
     </item>
     
     <item>
       <title>银行系与基金系QDII的比较研究</title>
-      <link>http://localhost:1313/post/comparative-research-on-qdii-from-banks-and-funds/</link>
+      <link>https://wesvi.github.io/post/comparative-research-on-qdii-from-banks-and-funds/</link>
       <pubDate>Wed, 30 Jan 2019 23:37:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/comparative-research-on-qdii-from-banks-and-funds/</guid>
+      <guid>https://wesvi.github.io/post/comparative-research-on-qdii-from-banks-and-funds/</guid>
       <description>史萍 （四川经济管理学院 工商管理系，四川 成都 610000） 摘要： QDII产品为个人投资者提供了一种新的投资选择。基金公司，商业银行推出的QDI</description>
     </item>
     
     <item>
       <title>母亲与中华花艺</title>
-      <link>http://localhost:1313/post/mather-and-floriculture/</link>
+      <link>https://wesvi.github.io/post/mather-and-floriculture/</link>
       <pubDate>Sun, 27 Jan 2019 10:02:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/mather-and-floriculture/</guid>
+      <guid>https://wesvi.github.io/post/mather-and-floriculture/</guid>
       <description>在我们家里，永远不缺的是鲜花，兰桃迎春、荷柳庇夏、菊桂护秋、梅竹斗寒，母亲总会按四季的更换，在她的那个玻璃花瓶里插上各种各样的花。所以那天晚</description>
     </item>
     
     <item>
       <title>GitHub Hexo Next搭建博客</title>
-      <link>http://localhost:1313/post/github-hexo-next/</link>
+      <link>https://wesvi.github.io/post/github-hexo-next/</link>
       <pubDate>Wed, 26 Dec 2018 20:12:41 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/github-hexo-next/</guid>
+      <guid>https://wesvi.github.io/post/github-hexo-next/</guid>
       <description>GitHub账号注册 GitHub上新建一个仓库，命名为user.github.io Git安装使用 git --version 配置个人信息 git config --global user.name &amp;quot;yourname&amp;quot; git config --global user.email &amp;quot;youremail@example.com&amp;quot; 生成SS</description>
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://localhost:1313/post/hello-world/</link>
+      <link>https://wesvi.github.io/post/hello-world/</link>
       <pubDate>Wed, 26 Dec 2018 19:37:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/hello-world/</guid>
+      <guid>https://wesvi.github.io/post/hello-world/</guid>
       <description>Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick Start Create a new post $ hexo new &amp;quot;My New Post&amp;quot; More info: Writing Run server $ hexo server More info: Server Generate static files $ hexo generate More info: Generating Deploy to</description>
     </item>
     

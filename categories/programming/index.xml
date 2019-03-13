@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on 万事威博客</title>
-    <link>http://localhost:1313/categories/programming/</link>
+    <link>https://wesvi.github.io/categories/programming/</link>
     <description>Recent content in Programming on 万事威博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:02:29 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wesvi.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Emacs安装配置</title>
-      <link>http://localhost:1313/post/emacs-install/</link>
+      <link>https://wesvi.github.io/post/emacs-install/</link>
       <pubDate>Sun, 24 Feb 2019 00:02:29 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/emacs-install/</guid>
+      <guid>https://wesvi.github.io/post/emacs-install/</guid>
       <description>Emacs安装配置 安装 win7环境 设置PATH，;D:\app\emacs\bin 创建快捷方式，位置处填入D:\app\emacs\bin\</description>
     </item>
     
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/post/markdown/</link>
+      <link>https://wesvi.github.io/post/markdown/</link>
       <pubDate>Sun, 17 Feb 2019 19:37:38 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/markdown/</guid>
+      <guid>https://wesvi.github.io/post/markdown/</guid>
       <description>Markdown Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。其基本语法如下： 标题 标题能显示出文章的</description>
     </item>
     
