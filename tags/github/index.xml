@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Hello Git</title>
+      <link>https://wesvi.github.io/post/hello-git/</link>
+      <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
+      
+      <guid>https://wesvi.github.io/post/hello-git/</guid>
+      <description>Hello git https://www.xianmin.org/ https://github.com/xianmin/hugo-theme-jane https://github.com/servicemesher/website</description>
+    </item>
+    
+    <item>
       <title>Hello Hugo</title>
       <link>https://wesvi.github.io/post/hello-hugo/</link>
       <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
