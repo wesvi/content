@@ -47,7 +47,8 @@
 
 &lt;p&gt;所以，把页面的http链接都换成https也是不对的。要想让https小灰锁变成安全的小绿锁其实非常简单，只需要在页面head里加入以下标签即可：&lt;/p&gt;
 
-&lt;p&gt;&lt;meta http-equiv=&#34;Content-Security-Policy&#34; content=&#34;upgrade-insecure-requests&#34; /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;meta http-equiv=&amp;quot;Content-Security-Policy&amp;quot; content=&amp;quot;upgrade-insecure-requests&amp;quot; /&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://segmentfault.com/a/1190000004667156&#34;&gt;https://segmentfault.com/a/1190000004667156&lt;/a&gt;&lt;/p&gt;
 </description>
