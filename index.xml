@@ -45,11 +45,11 @@
 
 &lt;h1 id=&#34;hello-git&#34;&gt;Hello git&lt;/h1&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://www.xianmin.org/&#34;&gt;https://www.xianmin.org/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;所以，把页面的http链接都换成https也是不对的。要想让https小灰锁变成安全的小绿锁其实非常简单，只需要在页面head里加入以下标签即可：&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane&#34;&gt;https://github.com/xianmin/hugo-theme-jane&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;meta http-equiv=&#34;Content-Security-Policy&#34; content=&#34;upgrade-insecure-requests&#34; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/servicemesher/website&#34;&gt;https://github.com/servicemesher/website&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://segmentfault.com/a/1190000004667156&#34;&gt;https://segmentfault.com/a/1190000004667156&lt;/a&gt;&lt;/p&gt;
 </description>
       
     </item>

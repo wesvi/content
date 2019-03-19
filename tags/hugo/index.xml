@@ -17,7 +17,7 @@
       <pubDate>Fri, 08 Mar 2019 19:37:38 +0000</pubDate>
       
       <guid>https://wesvi.github.io/post/hello-git/</guid>
-      <description>Hello git https://www.xianmin.org/ https://github.com/xianmin/hugo-theme-jane https://github.com/servicemesher/website</description>
+      <description>Hello git 所以，把页面的http链接都换成https也是不对的。要想让https小灰锁变成安全的小绿锁其实非常简单，只需要在页面head里加入以下</description>
     </item>
     
     <item>
