@@ -71,6 +71,14 @@
 &lt;p&gt;&lt;a href=&#34;https://github.com/xianmin/hugo-theme-jane&#34;&gt;https://github.com/xianmin/hugo-theme-jane&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/servicemesher/website&#34;&gt;https://github.com/servicemesher/website&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;hugo输出api&#34;&gt;Hugo输出API&lt;/h2&gt;
+
+&lt;p&gt;主要参考以下两篇文章&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://soulteary.com/2018/09/14/use-hugo-to-generate-the-api-interface.html&#34;&gt;使用 Hugo 生成 API 接口&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/regisphilibert/hugoGetApi&#34;&gt;hugoGetApi&lt;/a&gt;&lt;/p&gt;
 </description>
       
     </item>
