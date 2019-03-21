@@ -78,7 +78,7 @@
 
 &lt;p&gt;&lt;a href=&#34;https://soulteary.com/2018/09/14/use-hugo-to-generate-the-api-interface.html&#34;&gt;使用 Hugo 生成 API 接口&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://github.com/regisphilibert/hugoGetApi&#34;&gt;hugoGetApi&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/regisphilibert/hugoGetApi&#34;&gt;hugoGetApi&lt;/a&gt;，但这篇文章里由于版本原因，其实例代码里修改config.toml文件中suffix为suffixes&lt;/p&gt;
 </description>
       
     </item>
@@ -90,7 +90,7 @@
       
       <guid>https://wesvi.github.io/post/the-edge-of-shuoal/</guid>
       
-        <description>&lt;p&gt;by Cynan Jones&lt;/p&gt;
+        <description>&lt;p&gt;&lt;em&gt;by Cynan Jones&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;He swings the fish from the water, a wild stripe flicking and flashing into the boat, and grabs the line, twisting the hook out, holding the fish down in the footrests. It gasps, thrashes. Drums. Something rapid and primal, ceremonial, in the shallow of the open boat.&lt;/p&gt;
 
