@@ -1,4 +1,4 @@
 - [Home](/)
-- Blog
+- [Blog](/blog/)
 	- [Markdown](/blog/markdown.md)
 - [About](/about.md)
