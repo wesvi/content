@@ -1,3 +1,3 @@
 - [Home](/)
-- [Blog](/blog)
+- [Blog](/blog/)
 - [About](/about.md)
