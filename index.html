@@ -17,16 +17,17 @@
 	  ga: 'UA-106147152-1',
 	  name: 'Wesvi Doc',
 	  search: {
-        noData: {
-          '/': '没有结果!'
-        },
-        paths: 'auto',
-        placeholder: {
-          '/': '搜索'
-        }
-      },
+        maxAge: 86400000, 
+        paths: [], 
+        placeholder: '搜索',
+        noData: '找不到结果',
+		depth: 2,
+		hideOtherSidebarContent: false,
+		namespace: 'wesvisearch',
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
 </body>
 </html>
