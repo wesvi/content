@@ -9,3 +9,5 @@
 - [GitHub Hexo Next搭建博客](/blog/github-hexo-next.md)
 - [Emacs安装配置](/blog/emacs-install.md)
 - [银行系与基金系QDII的比较研究](/blog/comparative-research-on-qdii-from-banks-and-funds.md)
+- [THE EDGE OF SHOAL](/blog/the_edge_of_shuoal.md)
+- [Markdown论文笔记框架](/blog/markdown_paper_notes_framework.md)
